@@ -1,3 +1,1 @@
-'new readme'  
-"zero day" 
-"zero file" 
+Zero day
